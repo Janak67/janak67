@@ -14,7 +14,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=Postman&logoColor=FF5F1F)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;
-
 <div style="display: inline_block"><br>
     <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
