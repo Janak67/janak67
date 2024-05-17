@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Janak
 
-<b>I'm a 20 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
+<b>I'm a 24 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
 
 ![](https://komarev.com/ghpvc/?username=vishwas-kr&color=lightgrey)
 
