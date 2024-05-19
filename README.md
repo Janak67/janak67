@@ -2,7 +2,7 @@
 ###  - I'm Janak
 
 <b>I'm a 24 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
-- 👀 I’m interested in Programming
+- 👀 I’m Interested in Programming
 
 ![](https://komarev.com/ghpvc/?username=vishwas-kr&color=lightgrey)
 
