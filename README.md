@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋)](https://git.io/typing-svg)
-###  I'm Janak
+###  - I'm Janak
 
 <b>I'm a 24 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
+- 👀 I’m interested in Programming
 
 ![](https://komarev.com/ghpvc/?username=vishwas-kr&color=lightgrey)
 
