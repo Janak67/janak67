@@ -51,6 +51,8 @@
 
 - 📫 How to reach me **chandegrajanak6742@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Janak67?tab=repositories](https://github.com/Janak67?tab=repositories)
+
 <!--
 **Janak67/janak67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
