@@ -47,9 +47,11 @@
 
 - 🔭 I’m currently working on **Flutter**
 
+
 - 💬 Ask me about **Flutter, Dart, Firebase and API**
 
-- 📫 How to reach me **JunaidSuperCoder@gmail.com**
+
+- 📫 How to reach me **chandegrajanak6742@gmail.com**
 
 <!--
 **Janak67/janak67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
