@@ -42,7 +42,15 @@
   <br>
   <br>
 
-  
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **Flutter**
+
+- 💬 Ask me about **Flutter, Dart, Firebase and API**
+
+- 📫 How to reach me **JunaidSuperCoder@gmail.com**
+
 <!--
 **Janak67/janak67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
